@@ -1,0 +1,10 @@
+Unesite x i y: 5
+4
+Unesite x i y: 2
+1
+k1 = (5, 4)
+k2 = (2, 1)
+Zbroj: (7, 5)
+Razlika: (3, 3)
+Koordinate nisu jednake
+k1 nakon pomaka: (7, 7)
