@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="zadatak4/zadatak4.vcxproj" Id="b9c5e918-d5a7-4ef5-8eff-7b813e45b6f9" />
+</Solution>
